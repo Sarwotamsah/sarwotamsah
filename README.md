@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/ceo@sarwotamsah.com.np-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ceo@sarwotamsah.com.np)
 <img src="https://komarev.com/ghpvc/?username=sarwotamsah&label=Profile%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Wordpress+Developer+%7C+Tech+Enthusiast;IoT+%26+Robotics+Innovator;Building+Smart+Communities;Turning+Ideas+Into+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Wordpress+Developer+%7C+Tech+Enthusiast;IoT+%26+Robotics+Innovator;Building+Smart+Communities;Turning+Ideas+Into+Innovation+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -100,15 +100,15 @@ Hey there! I’m **Sarwotam Sah**, an aspiring Computer Engineering student, a p
 ---
 
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sarwotamsah.com.np)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarwotam-sah)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/sarwotamsah)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sarwotam.sah)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/sarwotamsah152)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sarwotamsah.com.np)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sarwotamsah.18/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarwotamsah@gmail.com)
 
 </div>
@@ -134,7 +134,7 @@ Hey there! I’m **Sarwotam Sah**, an aspiring Computer Engineering student, a p
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarwotamsah&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 <img width="49%" src="https://streak-stats.demolab.com?user=sarwotamsah&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwotamsah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwotamsah&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /> -->
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarwotamsah&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 
 </div>
@@ -143,9 +143,7 @@ Hey there! I’m **Sarwotam Sah**, an aspiring Computer Engineering student, a p
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sarwotamsah/sarwotamsah/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
+<div align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" /> </div>
 
 ---
 
